@@ -6,11 +6,9 @@ import csv
 
 # 각 landmark의 이름 목록
 landmark_names = [
-    "Nose", "Left Eye Inner", "Left Eye", "Left Eye Outer", "Right Eye Inner",
-    "Right Eye", "Right Eye Outer", "Left Ear", "Right Ear", "Mouth Left",
-    "Mouth Right", "Left Shoulder", "Right Shoulder", "Left Elbow", "Right Elbow",
-    "Left Wrist", "Right Wrist", "Left Pinky", "Right Pinky", "Left Index",
-    "Right Index", "Left Thumb", "Right Thumb", "Left Hip", "Right Hip",
+    "Nose", "Left Shoulder", "Right Shoulder", "Left Elbow", "Right Elbow",
+    "Left Wrist", "Right Wrist", "Left Index",
+    "Right Index", "Left Hip", "Right Hip",
     "Left Knee", "Right Knee", "Left Ankle", "Right Ankle", "Left Heel",
     "Right Heel", "Left Foot Index", "Right Foot Index"
 ]
@@ -104,6 +102,6 @@ def process_videos(input_folder, output_folder):
 
 # 예시 호출
 process_videos(
-    input_folder='./data/spin',
-    output_folder='./data/spin/output_2',
+    input_folder='./data/Step',
+    output_folder='./data/Step/output_3',
 )
