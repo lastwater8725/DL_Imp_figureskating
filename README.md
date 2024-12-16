@@ -49,7 +49,8 @@ AttributeError: module 'cv2' has no attribute 'xphoto'
 --> conda install opencv-contrib-python
 ```
 
-3. 실험 결과 
+## 실험 결과
+- 실험 결과 
 ```
 실험 결과는 다음과 같습니다. 
 - shap와 feature importance를 확인한 결과 하체의 keypoints가 분류에 중요한 역할을 한다.
