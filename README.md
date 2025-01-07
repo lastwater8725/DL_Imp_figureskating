@@ -49,12 +49,9 @@ AttributeError: module 'cv2' has no attribute 'xphoto'
 --> conda install opencv-contrib-python
 ```
 
-<<<<<<< HEAD
 
-## 실험결과
-=======
 ## 실험 결과
->>>>>>> 408e90d39ad6a71e7d1ab041740dfd385174dfdb
+
 - 실험 결과 
 ```
 실험 결과는 다음과 같습니다. 
