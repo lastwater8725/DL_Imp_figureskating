@@ -16,7 +16,7 @@
 └── README.md
 ```
 ## Environment
-- ubuntu2.0에서 진행하였습니다. ubuntu에서 실행하는 것을 권장드립니다.
+- linux에서 진행하였습니다. linux에서 실행하는 것을 권장드립니다.
 - anaconda 가상환경에서 진행하였습니다. anaconda를 활용하시는 걸 권장드립니다.
 
 ## Code 
